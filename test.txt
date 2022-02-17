@@ -6,3 +6,4 @@ hello
 bye
 v
 nnf
+bye
